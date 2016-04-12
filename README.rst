@@ -26,7 +26,7 @@ SocialBase 接口消息 API
   - https://www.example.com/api?action=menu_subscribe
 
 
-SocialBase 的服务器地址为 ``42.121.99.26``, ``42.120.51.130`` 。请在 Web 服务器配置中允许来自这两个 IP 地址的请求。为了安全，请禁用来自其他地址的请求。
+SocialBase 的服务器托管在 Amazon Web Service (Beijing) ，IP 地址属于 54.222.0.0/15。请在 Web 服务器配置中允许来自这段 IP 地址的请求。为了安全，请禁用来自其他地址的请求。
 
 
 ********
